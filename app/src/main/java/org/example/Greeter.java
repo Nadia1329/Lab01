@@ -2,7 +2,7 @@ package org.example;
 
 public class Greeter {
   public String getGreeting() {
-      return "Hello World! Welcome to CSC-214";
-      
+      return "Hello World! Welcome to CSC-214!";
+
   }
 }
